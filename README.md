@@ -1,1 +1,2 @@
-# cleanblog
+# Clean Blog
+Simple clean blog page.
